@@ -10,5 +10,4 @@ A project to practice/showcase CSS Grid based learning objectives.
 Clone repository and run index.html in your browser.
 
 ## Credits
-
-[Placeholder](https://www.google.com) - Asset Name
+[The Odin Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard) - Lesson Material
